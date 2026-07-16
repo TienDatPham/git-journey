@@ -101,6 +101,8 @@ pip install -r requirements.txt
 ## Learning Resources
 
 - [Git Documentation](https://git-scm.com/doc)
+- [Git & GitHub Crash Course for Beginners [2026]] (https://www.youtube.com/watch?v=mAFoROnOfHs)
+- [Git 101] (https://gist.github.com/antruongnguyen/6bb4ebbcb8ad3608eeddff97ca615c47)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
